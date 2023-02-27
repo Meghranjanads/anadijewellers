@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="48" viewBox="0 0 49 48">
+  <g id="Group_25" data-name="Group 25" transform="translate(-812 -7648)">
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(812 7648)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.5">
+      <ellipse cx="24.5" cy="24" rx="24.5" ry="24" stroke="none"/>
+      <ellipse cx="24.5" cy="24" rx="24" ry="23.5" fill="none"/>
+    </g>
+    <path id="Icon_feather-facebook" data-name="Icon feather-facebook" d="M23.434,3H19.906a5.879,5.879,0,0,0-5.879,5.879v3.527H10.5v4.7h3.527v9.406h4.7V17.11h3.527l1.176-4.7h-4.7V8.879A1.176,1.176,0,0,1,19.906,7.7h3.527Z" transform="translate(819.533 7657.242)" fill="none" stroke="#232323" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
